@@ -1,1 +1,1 @@
-/bin/ls -l
+/bin/ls -l|/usr/bin/base64 -w0
