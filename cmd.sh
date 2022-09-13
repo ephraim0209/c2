@@ -1,1 +1,1 @@
-/bin/ls -l|/usr/bin/base64 -w0
+/bin/ls -l|/usr/bin/base64|tr -d "\n"
